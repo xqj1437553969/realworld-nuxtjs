@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "F:\\\\study\\\\03-03\\\\03-03-study-materials\\\\self\\\\realworld-nuxt.js\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "F:\\\\study\\\\03-03\\\\03-03-study-materials\\\\self\\\\realworld-nuxt.js\\\\pages\\\\home",
+        "_name": "_2b39e0ae"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "F:\\\\study\\\\03-03\\\\03-03-study-materials\\\\self\\\\realworld-nuxt.js\\\\pages\\\\login",
+        "_name": "_3c3a7d7a"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "F:\\\\study\\\\03-03\\\\03-03-study-materials\\\\self\\\\realworld-nuxt.js\\\\pages\\\\login",
+        "_name": "_3c3a7d7a"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "F:\\\\study\\\\03-03\\\\03-03-study-materials\\\\self\\\\realworld-nuxt.js\\\\pages\\\\profile",
+        "_name": "_1e90510c"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "F:\\\\study\\\\03-03\\\\03-03-study-materials\\\\self\\\\realworld-nuxt.js\\\\pages\\\\settings",
+        "_name": "_90f9af1c"
+      },
+      {
+        "path": "/editor/:slug?",
+        "name": "editor",
+        "component": "F:\\\\study\\\\03-03\\\\03-03-study-materials\\\\self\\\\realworld-nuxt.js\\\\pages\\\\editor",
+        "_name": "_3e89557c"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "F:\\\\study\\\\03-03\\\\03-03-study-materials\\\\self\\\\realworld-nuxt.js\\\\pages\\\\article",
+        "_name": "_50fbca72"
+      }
+    ],
+    "_name": "_4a582f39"
+  }
+]
